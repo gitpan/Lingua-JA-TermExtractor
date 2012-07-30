@@ -6,6 +6,7 @@ build_requires:
   ExtUtils::MakeMaker: 6.59
   Test::Fatal: 0
   Test::More: 0.88
+  Test::Requires: 0
   Test::Warn: 0.2
 configure_requires:
   ExtUtils::MakeMaker: 6.59
@@ -24,10 +25,10 @@ no_index:
     - xt
 requires:
   Carp: 0
-  Lingua::JA::TFWebIDF: 0.34
+  Lingua::JA::TFWebIDF: 0.36
   perl: 5.8.1
 resources:
   bugtracker: https://github.com/pawa-/Lingua-JA-TermExtractor/issues
   license: http://dev.perl.org/licenses
   repository: https://github.com/pawa-/Lingua-JA-TermExtractor
-version: 0.01
+version: 0.02
