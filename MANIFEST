@@ -21,6 +21,7 @@ t/01_basic.t
 t/02_extract_scalar.t
 t/03_extract_array.t
 t/04_data_structure.t
+t/05_db_auto.t
 xt/01_podspell.t
 xt/02_perlcritic.t
 xt/03_pod.t
