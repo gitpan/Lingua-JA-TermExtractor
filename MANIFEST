@@ -1,4 +1,6 @@
 Changes
+df/flagged_utf8.st
+df/utf8.tch
 inc/Module/Install.pm
 inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
